@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\projects\\sideProjects-educational\\wheel\\static\\assets",
+  "images": [
+    {
+      "name": "background.jpg",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/background.jpg",
+      "folder": ""
+    },
+    {
+      "name": "off.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/off.png",
+      "folder": ""
+    },
+    {
+      "name": "on.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/on.png",
+      "folder": ""
+    },
+    {
+      "name": "spin_button_off.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/spin_button_off.png",
+      "folder": ""
+    },
+    {
+      "name": "spin_button_over.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/spin_button_over.png",
+      "folder": ""
+    },
+    {
+      "name": "spin_button_up.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/spin_button_up.png",
+      "folder": ""
+    },
+    {
+      "name": "wheel.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/wheel.png",
+      "folder": ""
+    },
+    {
+      "name": "wheel_4.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/wheel_4.png",
+      "folder": ""
+    },
+    {
+      "name": "wheel_7.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/wheel_7.png",
+      "folder": ""
+    },
+    {
+      "name": "win_frame.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/win_frame.png",
+      "folder": ""
+    },
+    {
+      "name": "win_glow.png",
+      "path": "C:/projects/sideProjects-educational/wheel/images/main-1/win_glow.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "main-1",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\projects\\sideProjects-educational\\wheel\\static\\assets",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

@@ -1,0 +1,68 @@
+{
+    "wheelSpinDuration": 5,
+    "wheelSpinsCount": 4,
+    "winningSector": 0,
+    "currency": "$",
+    "sectors": [
+        {
+            "monetary": true,
+            "value": 15,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": true,
+            "value": 200,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": true,
+            "value": 300,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": false,
+            "value": 0,
+            "bonusGame": true,
+            "bonusGameTitle": "OCEAN BONUS"
+        },
+        {
+            "monetary": true,
+            "value": 400,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": true,
+            "value": 500,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": false,
+            "value": 0,
+            "bonusGame": true,
+            "bonusGameTitle": "COMPASS BONUS"
+        },
+        {
+            "monetary": true,
+            "value": 700,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": true,
+            "value": 800,
+            "bonusGame": false,
+            "bonusGameTitle": ""
+        },
+        {
+            "monetary": false,
+            "value": 0,
+            "bonusGame": true,
+            "bonusGameTitle": "LADDER BONUS"
+        }
+    ]
+}

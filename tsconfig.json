@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "target": "ES6",
+        "module": "ESNext",
+        "strict": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": false,
+        "noUnusedParameters": false,
+        "noUnusedLocals": false,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitOverride": true,
+        "strictPropertyInitialization": false,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+    },
+    "include": [
+        "./src/**/*",
+        "server.js"
+    ]
+}
